@@ -15,6 +15,14 @@ Sample preview : https://youtu.be/fSV5OWaiboQ
 
 <img width="364" alt="Screenshot 2021-09-13 at 4 01 38 PM" src="https://user-images.githubusercontent.com/67630400/133075940-fdc1b06b-4b87-442e-94f9-2eba048549e1.png">
 
+<img width="374" alt="Screenshot 2021-09-13 at 4 04 44 PM" src="https://user-images.githubusercontent.com/67630400/133076539-2ebeddf6-10e7-41d4-a021-209626225926.png">
+
+<img width="374" alt="Screenshot 2021-09-13 at 4 05 10 PM" src="https://user-images.githubusercontent.com/67630400/133076558-5c2a5b12-2781-4997-a8ae-686eff6df847.png">
+
+<img width="376" alt="Screenshot 2021-09-13 at 4 04 59 PM" src="https://user-images.githubusercontent.com/67630400/133076567-2eca5602-2435-4f1b-8708-e0ab47c1a3cc.png">
+
+<img width="320" alt="Screenshot 2021-09-13 at 4 10 25 PM" src="https://user-images.githubusercontent.com/67630400/133076605-0cce1840-dfa3-4f7e-b4c0-5e568ef8f9fd.png">
+
 <img width="367" alt="Screenshot 2021-09-13 at 4 01 08 PM" src="https://user-images.githubusercontent.com/67630400/133075949-d8239871-d1ac-4fad-9ae2-51e7cf6972e7.png">
 
 <img width="369" alt="Screenshot 2021-09-13 at 4 01 21 PM" src="https://user-images.githubusercontent.com/67630400/133075954-e7e756b0-95b5-47b0-9692-f5f888ea32cf.png">
