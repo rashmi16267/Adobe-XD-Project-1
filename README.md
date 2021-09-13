@@ -1,6 +1,8 @@
 # Adobe-XD-Project-1
 this project is an initial ui/ux design made for an app that functions as a platform for book exchange
+
 Files : Bookapp.xd
+
 Sample preview : https://youtu.be/fSV5OWaiboQ
 
 <img width="365" alt="Screenshot 2021-09-13 at 3 59 06 PM" src="https://user-images.githubusercontent.com/67630400/133075373-d463b1fd-0497-42b9-b557-4eb7df83c825.png">
