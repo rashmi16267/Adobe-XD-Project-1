@@ -1,5 +1,6 @@
 # Book Barter System
-this project is an initial ui/ux design made for an app that functions as a platform for book exchange
+
+UI/UX design made for a conceptual mobile application in dark/night mode that functions as a platform for book exchange
 
 Files : Bookapp.xd
 
